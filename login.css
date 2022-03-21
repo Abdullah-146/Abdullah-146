@@ -1,0 +1,129 @@
+    /* Made with love by Abdullah*/
+    
+    @import url('https://fonts.googleapis.com/css?family=Numans');
+    html,
+    body {
+        /* background-image: url('css/img/back.jpg'); */
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/back.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* height: 100%; */
+        font-family: 'Numans', sans-serif;
+    }
+    
+    .container {
+        height: 100%;
+        align-content: center;
+    }
+    
+    .card {
+        height: 370px;
+        margin-top: auto;
+        margin-bottom: 30vh;
+        width: 400px;
+        background-color: rgba(255, 255, 255, 0.2) !important;
+        border-radius: 25px;
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .card:hover {
+        transition: ease-in 0.3s;
+        background-color: rgba(0, 0, 0, 0.479) !important;
+    }
+    
+    .social_icon span {
+        font-size: 60px;
+        margin-left: 10px;
+        color: #007bff;
+    }
+    
+    .social_icon span:hover {
+        color: white;
+        cursor: pointer;
+    }
+    
+    .card-header h3 {
+        color: white;
+    }
+    
+    .social_icon {
+        position: absolute;
+        right: 20px;
+        top: -45px;
+    }
+    
+    .input-group-prepend span {
+        width: 50px;
+        background-color: #007bff;
+        color: black;
+        border: 0 !important;
+    }
+    
+    input:focus {
+        outline: 0 0 0 0 !important;
+        box-shadow: 0 0 0 0 !important;
+    }
+    
+    .remember {
+        color: white;
+    }
+    
+    .remember input {
+        width: 20px;
+        height: 20px;
+        margin-left: 15px;
+        margin-right: 5px;
+    }
+    
+    .login_btn {
+        color: white;
+        background-color: #007bff;
+        width: 100px;
+    }
+    
+    .login_btn:hover {
+        color: black;
+        background-color: white;
+    }
+    
+    .links {
+        color: white;
+    }
+    
+    .links a {
+        margin-left: 4px;
+    }
+    
+    .boder {
+        border: 1px solid black;
+    }
+    
+    .logo {
+        margin-left: 20vw;
+        width: 400px;
+        height: 120px;
+    }
+    
+    .adj {
+        position: relative;
+        top: 10%;
+        text-align: center;
+        width: 80%;
+    }
+    
+    @media only screen and (max-width: 768px) {
+        /* For mobile phones: */
+        .adj {
+            width: 100%;
+            height: 10%;
+            margin-left: -10vw;
+        }
+        .focs {
+            height: 35%;
+            width: 35%;
+        }
+        body {
+            width: 50%;
+            height: 60%;
+        }
+    }
