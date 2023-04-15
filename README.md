@@ -42,81 +42,71 @@ const Abdullah = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1297-blue)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+<p align="center">
 
-**🐱 My GitHub Data** 
+- 📋 Languages: 
+    
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+    ![typescropt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)   
+    ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 
-> 🏆 479 Contributions in the Year 2022
- > 
-> 📦 172.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 21 Private Repositories  
- > 
-**I'm a Night 🦉** 
-```text
-🌞 Morning    64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-🌆 Daytime    263 commits    █████████░░░░░░░░░░░░░░░░   38.62% 
-🌃 Evening    223 commits    ████████░░░░░░░░░░░░░░░░░   32.75% 
-🌙 Night      131 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.24%
-```
-📅 **I'm Most Productive on Sunday** 
+   
+    
+- 🎨 Frameworks
 
-```text
-Monday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-Tuesday      62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
-Wednesday    113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
-Thursday     96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1% 
-Friday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Saturday     110 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
-Sunday       145 commits    █████░░░░░░░░░░░░░░░░░░░░   21.29%
-```
+   ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+   ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+   ![jQuary](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+   ![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+   ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+    
+- 💾 Databases:
 
+    
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
+    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    
+    
+- 🎛️ Application and Tools:
 
-📊 **This Week I Spent My Time On** 
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+    
+</p>
 
-```text
-⌚︎ Time Zone: Asia/Kolkata
-💬 Programming Languages: 
-JavaScript               38 hrs 21 mins      ████████████████████████░   97.3% 
-JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
-GitIgnore file           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
-🔥 Editors: 
-WebStorm                 39 hrs 25 mins      █████████████████████████   100.0%
-💻 Operating System: 
-Mac                      39 hrs 25 mins      █████████████████████████   100.0%
-```
+### Here's my github README stats:
 
-**I Mostly Code in JavaScript** 
+![usamadevops GitHub stats](https://github-readme-stats.vercel.app/api?username=usamadevops&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usamadevops&theme=radical)](https://git.io/streak-stats) 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-```text
-JavaScript               16 repos            ████████░░░░░░░░░░░░░░░░░   34.78% 
-Vue                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
-```
+<p align="left">
+    <a href="https://github.com/usamadevops"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usamadevops&theme=tokyonight&hide_border=true"  width="500" alt="usamadevops"/></a>
+<a href="https://github.com/usamadevops"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=usamadevops&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="450"  alt="usamadevops"/></a>
+</p>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
- Last Updated on 30/05/2022 02:11:46 UTC
-<!--END_SECTION:waka-->
+![snake gif](https://github.com/usamadevops/usamadevops/blob/output/github-contribution-grid-snake.gif)    
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+### Here's my Codewars stats:
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjU1ODI4OCwtMTU1MDQ0NTAwOSwtMT
-YyMTcyNTA5XX0=
--->
+<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
+
+### Thank you for visiting my profile 🤓 
+
