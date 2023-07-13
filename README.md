@@ -95,7 +95,7 @@ const Abdullah = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left">
-    <a href="https://github.com/usamadevops"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-146&theme=tokyonight&hide_border=true"  width="500" alt="Abdullah-146"/></a>
+    <a href="https://github.com/Abdullah-146"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-146&theme=tokyonight&hide_border=true"  width="500" alt="Abdullah-146"/></a>
 <a href="https://github.com/Abdullah-146"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-146&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="450"  alt="usamadevops"/></a>
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
