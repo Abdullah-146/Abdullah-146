@@ -15,6 +15,7 @@
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+- 📫 How to reach me **Abdullah.mumtaz65@gmail.com**
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -105,7 +106,7 @@ const Abdullah = {
 
 ![snake gif](https://github.com/usamadevops/usamadevops/blob/output/github-contribution-grid-snake.gif)    
 
-![snake animation](https://github.com/<seu Abdullah-146>/<seu Abdullah-146>/blob/output/github-contribution-grid-snake2.svg)
+
 
 ### Here's my Codewars stats:
 
