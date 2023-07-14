@@ -105,6 +105,8 @@ const Abdullah = {
 
 ![snake gif](https://github.com/usamadevops/usamadevops/blob/output/github-contribution-grid-snake.gif)    
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 ### Here's my Codewars stats:
 
 <img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
