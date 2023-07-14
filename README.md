@@ -106,7 +106,7 @@ const Abdullah = {
 
 ![snake gif](https://github.com/usamadevops/usamadevops/blob/output/github-contribution-grid-snake.gif)    
 
-![snake animation](https://github.com/Abdullah-146/Abdullah-146/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Abdullah-146/Abdullah-146/blob/output/github-contribution-grid-snake2.gif)
 
 
 
