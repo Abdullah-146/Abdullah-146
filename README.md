@@ -16,6 +16,7 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 - 📫 How to reach me **Abdullah.mumtaz65@gmail.com**
+- 📲 How to reach me **[wa.me/+923485517655](https://wa.me/+923485517655)**
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
