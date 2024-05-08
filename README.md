@@ -26,13 +26,14 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 const Abdullah = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],
+    frameWorks : [next , react , remix, tailwind],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["ReactNative"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
